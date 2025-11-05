@@ -1,0 +1,11 @@
+# CLion / IDEA
+.idea/
+*.iml
+
+# Build / debug klasörleri
+cmake-build-debug/
+*.exe
+*.o
+*.obj
+*.pdb
+*.user
